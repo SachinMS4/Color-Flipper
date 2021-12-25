@@ -26,7 +26,7 @@ body {
 }
 
 .content {
-  height: 70vh;
+  height: 95vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
